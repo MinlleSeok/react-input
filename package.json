@@ -1,7 +1,7 @@
 {
-  "name": "input",
+  "name": "react-input",
   "version": "1.0.0",
-  "description": "input maker",
+  "description": "react input components",
   "main": "index.js",
   "author": "Jose Seok",
   "license": "MIT",
